@@ -28,8 +28,8 @@ def store_last_replied_id(last_replied_id, file_name):
     f_write.close()
     return
 
+# Removing special characters and spaces to generate only meaningful words using regex
 def clean_tweet(tweet):
-
     return ' '.join(re.sub("(@[A-Za-z0-9]+)|([^0-9A-Za-z \t]) |(\w+:\/\/\S+)", " ", tweet).split())
 
 def get_tweet_sentiment(tweet):
@@ -52,35 +52,32 @@ def reply_to_tweets():
         last_replied_id = mention.id
 
         store_last_replied_id(last_replied_id, FILE_NAME)
-
+        
+        # Analyzing the sentiment of the mention as positive or negative
         tweet_sentiment= get_tweet_sentiment(mention.full_text.lower())
-
+           
+        # analyzing words that greet you and then replying back accordingly
         if 'hello' in mention.full_text.lower():
-            print('found greeting')
-            print('responding back...')
             api.update_status('@' + mention.user.screen_name +'#Hello', mention.id)
 
-        if 'hi' in mention.full_text.lower():
-            print('found greeting')
-            print('responding back...')
+        elif 'hi' in mention.full_text.lower():
             api.update_status('@' + mention.user.screen_name +'#Hi', mention.id)
 
-        if 'hey' in mention.full_text.lower():
-            print('found greeting')
-            print('responding back...')
+        elif 'hey' in mention.full_text.lower():
             api.update_status('@' + mention.user.screen_name +'#Hey', mention.id)
-
-        if tweet_sentiment < 0 :
+        
+        # sentiment is negative for less than 0, positive for greater than 0 and neutral for equal to 0
+        elif tweet_sentiment < 0 :
             api.update_status('@' + mention.user.screen_name +'#I am Sorry !', mention.id)
 
-        if tweet_sentiment > 0 :
+        elif tweet_sentiment > 0 :
             api.update_status('@' + mention.user.screen_name +'#Thank You !', mention.id)
 
-        if tweet_sentiment == 0 :
+        elif tweet_sentiment == 0 :
             api.update_status('@' + mention.user.screen_name +'#Alright !', mention.id)
 
 
 
 while True:
     reply_to_tweets()
-    time.sleep(15)
+    time.sleep(15) # reinitiating the script after every 15 seconds
