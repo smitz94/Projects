@@ -3,7 +3,6 @@
  *
  * Represents a quadtree for the Barnes-Hut algorithm.
  *
- * Dependencies: Body.java Quad.java
  *
  */
 
