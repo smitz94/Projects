@@ -16,7 +16,7 @@ and **[Gauss Siedel Method](https://nptel.ac.in/courses/108108079/8)**
 > Discretized the governing differential equation using 
 **[central difference approximation](http://mathfaculty.fullerton.edu/mathews/n2003/differentiation/NumericalDiffProof.pdf)**.
 
-> Further information is available in the report of the procedure 
+> Further information of the procedure is available in the report 
 **[here](https://github.com/smitz94/Projects/blob/master/Finite%20Difference%20Analysis/FDA_report.pdf)**.
 
 ## RESULTS :
