@@ -49,7 +49,8 @@ This file contains the main method that will invoke the simulation and it will t
 ### HOW TO RUN CODE: 
 
 ```bash
-first move to the directory all these files are present. After that copy the following sytaxt:
+Run the terminal or command prompt as administrator
+move to the directory where all these files are present. After that copy the following sytaxt in terminal:
 
 java NBody.java -Xlint
 javac NBody < Inputs/(filename from Inputs folder).txt
