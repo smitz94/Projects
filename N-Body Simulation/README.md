@@ -9,6 +9,8 @@ _Algorithm used_ : **BARNES-HUT QUAD TREE STRUCTURE**
 
 _Library used_ : **[StdDraw.java](https://introcs.cs.princeton.edu/java/stdlib/javadoc/StdDraw.html)**
 
+> NOTE: [Please read How to run code below](#how-to-run-code)
+
 
 > ### BARNES-HUT ALGORITHM (QUAD TREE STRUCTURE FOR 2D PROBLEM)
 
