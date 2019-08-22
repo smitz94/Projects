@@ -8,7 +8,7 @@
 
 _Language used_ : **C++** and **PYTHON**
 
-_Libraries used_ : **numpy**,**matplotlib** and **mpl_toolkits.mplot3d**
+_Libraries used_ : **numpy** , **matplotlib.pyplot** and **mpl_toolkits.mplot3d**
 
 _Algorithms used_ : Tri Diagonal Matrix Algorithm **[TDMA](https://www.cfd-online.com/Wiki/Tridiagonal_matrix_algorithm_-_TDMA_(Thomas_algorithm))**
 and **[Gauss Siedel Method](https://nptel.ac.in/courses/108108079/8)**
