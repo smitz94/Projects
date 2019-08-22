@@ -42,6 +42,10 @@ This file consists of program that is the script of the bot and going to initiat
 
 Add your generated **_Consumer Keys_** and **_Access Keys_** here.
 
+[LAST_REPLIED_TWEET_ID.TXT](https://github.com/smitz94/Projects/blob/master/Twitter%20Bot-Rusty/last_replied_tweet_id.txt)
+
+**_Add any random number to the file and save before running the script else it will throw error._**
+
 ## RESULTS
 
 * **INITIATION
