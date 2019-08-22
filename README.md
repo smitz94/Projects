@@ -4,5 +4,7 @@ These are some of my Computational Physics projects and Individual projects in C
 
 #### [FINITE ELEMENT ANALYSIS](https://github.com/smitz94/Projects/tree/master/Finite%20Element%20Analysis)
 #### [FINITE DIFFERENCE ANALYSIS](https://github.com/smitz94/Projects/tree/master/Finite%20Difference%20Analysis)
+
+* Multi-dimensional Temperature distribution estimation
 #### [TWITTER BOT-RUSTY](https://github.com/smitz94/Projects/tree/master/Twitter%20Bot-Rusty)
 #### [N-BODY SIMULATION](https://github.com/smitz94/Projects/tree/master/N-Body%20Simulation)
