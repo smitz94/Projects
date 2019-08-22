@@ -3,11 +3,11 @@
 ### Problem Statement : 
 Write a program to simulate the motion of n particles in the plane, mutually affected by gravitational forces, and animate the results.
 
-Language used : **JAVA**
+_Language used_ : **JAVA**
 
-Algorithm used : **BARNES-HUT QUAD TREE STRUCTURE**
+_Algorithm used_ : **BARNES-HUT QUAD TREE STRUCTURE**
 
-Library used : **[StdDraw.java](https://introcs.cs.princeton.edu/java/stdlib/javadoc/StdDraw.html)**
+_Library used_ : **[StdDraw.java](https://introcs.cs.princeton.edu/java/stdlib/javadoc/StdDraw.html)**
 
 
 
