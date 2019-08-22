@@ -43,3 +43,19 @@ This file consists of program that is the script of the bot and going to initiat
 Add your generated **_Consumer Keys_** and **_Access Keys_** here.
 
 ## RESULTS
+
+* **INITIATION
+
+![](https://github.com/smitz94/Projects/blob/master/Twitter%20Bot-Rusty/img1.png)
+
+* **GREETINGS
+
+![](https://github.com/smitz94/Projects/blob/master/Twitter%20Bot-Rusty/img4.png)
+
+* **NEGATIVE MENTION
+
+![](https://github.com/smitz94/Projects/blob/master/Twitter%20Bot-Rusty/img3.png)
+
+* **POSITIVE MENTION
+
+![](https://github.com/smitz94/Projects/blob/master/Twitter%20Bot-Rusty/img2.png)
