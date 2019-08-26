@@ -21,6 +21,10 @@ These are some of my Computational Physics projects and Individual projects in *
 
 * Multi-dimensional Temperature distribution estimation
 
+#### [ENERGY TRANSFER IN 2D FLUID TURBULENCE](https://github.com/smitz94/Projects/tree/master/Energy%20transfer%20in%202D%20fluid%20turbulence)
+
+* Study energy transfer in 2D fluid turbulence and validate results using KOLMOGOROV's Theory.
+
 
 
 
