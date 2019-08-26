@@ -1,5 +1,5 @@
 # PROJECTS
-These are some of my Computational Physics projects and Individual projects in C++ , Python and Java.
+These are some of my Computational Physics projects and Individual projects in **_C++ , Python and Java_**.
 
 
 #### [FINITE ELEMENT ANALYSIS](https://github.com/smitz94/Projects/tree/master/Finite%20Element%20Analysis)
