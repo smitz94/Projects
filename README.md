@@ -1,6 +1,17 @@
 # PROJECTS
 These are some of my Computational Physics projects and Individual projects in **_C++ , Python and Java_**.
 
+#### [N-BODY SIMULATION](https://github.com/smitz94/Projects/tree/master/N-Body%20Simulation)
+
+* Simulating Gravitational interaction of N-bodies.
+
+#### [TWITTER BOT-RUSTY](https://github.com/smitz94/Projects/tree/master/Twitter%20Bot-Rusty)
+
+* Self Responding Twitter Bot after analyzing sentiments and greetings of the mentions on twitter.
+
+#### [DETECTING ONLY RED CIRCLES IN A GIVEN IMAGE](https://github.com/smitz94/Projects/tree/master/Detect%20only%20Red%20circles%20in%20a%20given%20Image)
+
+* Image Processing to detect only red colored circles in a given image using OpenCv.
 
 #### [FINITE ELEMENT ANALYSIS](https://github.com/smitz94/Projects/tree/master/Finite%20Element%20Analysis)
 
@@ -10,10 +21,6 @@ These are some of my Computational Physics projects and Individual projects in *
 
 * Multi-dimensional Temperature distribution estimation
 
-#### [TWITTER BOT-RUSTY](https://github.com/smitz94/Projects/tree/master/Twitter%20Bot-Rusty)
 
-* Self Responding Twitter Bot after analyzing sentiments and greetings of the mentions on twitter.
 
-#### [N-BODY SIMULATION](https://github.com/smitz94/Projects/tree/master/N-Body%20Simulation)
 
-* Simulating Gravitational interaction of N-bodies.
