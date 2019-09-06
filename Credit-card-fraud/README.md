@@ -15,13 +15,13 @@ _Models used_ : **[Linear Regression](https://towardsdatascience.com/linear-regr
 
 
 ### CODE EXPLATION [CREDIT_CARD_FRAUD_DETECTION.PY](https://github.com/smitz94/Projects/blob/master/Credit-card-fraud/credit_card_fraud_detection.py)
-* Seperate Target and Training data.
+* Seperate Target and Training data in the ratio 75:25.
 
 * Apply SMOTE to oversample the data to equalize the minority and majority classes.
 
 * Call the described models to train the data and predict the output.
 
-* Compute and plot the ROC and AUC for each described Model.
+* Compute confusion matrix, accuracy, precision, recall, ROC and AUC for each described Model and plot them to analyze.
 
 ### RESULTS
 
@@ -36,3 +36,7 @@ _Models used_ : **[Linear Regression](https://towardsdatascience.com/linear-regr
 > **RANDOM FOREST**
 
 ![](https://github.com/smitz94/Projects/blob/master/Credit-card-fraud/Figure_3.png)
+
+### CONCLUSION
+
+Closer the AUC to 1 better the model's performance over the dataset. Hence, we can see Linear Regression and Random Forest model have close AUC. Therefore we can choose either of them. Here we can choose Random Forest.
