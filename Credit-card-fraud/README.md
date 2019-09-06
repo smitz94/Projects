@@ -30,7 +30,7 @@ that allows us to identify a particular color using a single value, the **hue**,
 
 ![](https://github.com/smitz94/Projects/blob/master/Credit-card-fraud/Figure_1.png)
 
-> **K NEAREST NEIGHBOURS
+> **K NEAREST NEIGHBOURS**
 
 ![](https://github.com/smitz94/Projects/blob/master/Credit-card-fraud/Figure_2.png)
 
