@@ -39,4 +39,4 @@ _Models used_ : **[Linear Regression](https://towardsdatascience.com/linear-regr
 
 ### CONCLUSION
 
-Closer the AUC to 1 better the model's performance over the dataset. Hence, we can see Linear Regression and Random Forest model have close AUC. Therefore we can choose either of them. Here we can choose Random Forest.
+Closer the AUC to 1 better the model's performance over the dataset. Hence, we can see Linear Regression and Random Forest model have close AUC. Therefore we can choose either of them. Here we can choose **Random Forest**.
