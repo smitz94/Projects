@@ -15,14 +15,13 @@ _Models used_ : **[Linear Regression](https://towardsdatascience.com/linear-regr
 
 
 ### CODE EXPLATION [CREDIT_CARD_FRAUD_DETECTION.PY](https://github.com/smitz94/Projects/blob/master/Credit-card-fraud/credit_card_fraud_detection.py)
-* Open the desired image for analysis.
+* Seperate Target and Training data.
 
-* Threshold the Input image to [HSV space](https://en.wikipedia.org/wiki/HSL_and_HSV), as it has the desirable property 
-that allows us to identify a particular color using a single value, the **hue**, instead of three values. 
+* Apply SMOTE to oversample the data to equalize the minority and majority classes.
 
-* Combine the two threshold images i.e low range and high range images.
+* Call the described models to train the data and predict the output.
 
-* Apply Hough Transform to detect circles in the image and patch the red color and circles together.
+* Compute and plot the ROC and AUC for each described Model.
 
 ### RESULTS
 
