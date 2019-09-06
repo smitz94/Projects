@@ -26,14 +26,14 @@ that allows us to identify a particular color using a single value, the **hue**,
 
 ### RESULTS
 
-> Input: [Input 1](https://github.com/smitz94/Projects/blob/master/Detect%20only%20Red%20circles%20in%20a%20given%20Image/Images/all_circles.png)
+> **LINEAR REGRESSION**
 
-![](https://github.com/smitz94/Projects/blob/master/Detect%20only%20Red%20circles%20in%20a%20given%20Image/Images/result1.png)
+![](https://github.com/smitz94/Projects/blob/master/Credit-card-fraud/Figure_1.png)
 
-> Input: [Input 2](https://github.com/smitz94/Projects/blob/master/Detect%20only%20Red%20circles%20in%20a%20given%20Image/Images/all_red.png)
+> **K NEAREST NEIGHBOURS
 
-![](https://github.com/smitz94/Projects/blob/master/Detect%20only%20Red%20circles%20in%20a%20given%20Image/Images/result2.png)
+![](https://github.com/smitz94/Projects/blob/master/Credit-card-fraud/Figure_2.png)
 
-> Input: [Input 3](https://github.com/smitz94/Projects/blob/master/Detect%20only%20Red%20circles%20in%20a%20given%20Image/Images/diff_shapes.png)
+> **RANDOM FOREST**
 
-![](https://github.com/smitz94/Projects/blob/master/Detect%20only%20Red%20circles%20in%20a%20given%20Image/Images/result3.png)
+![](https://github.com/smitz94/Projects/blob/master/Credit-card-fraud/Figure_3.png)
