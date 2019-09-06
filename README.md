@@ -1,6 +1,10 @@
 # PROJECTS
 These are some of my Computational Physics projects and Individual projects in **_C++ , Python and Java_**.
 
+#### [CREDIT CARD FRAUD DETECTION (MACHINE LEARNING)](https://github.com/smitz94/Projects/tree/master/Credit-card-fraud)
+
+* Figuring out which Statistical Model to use for Credit Card Fraud detection using Machine Learning.
+
 #### [N-BODY SIMULATION](https://github.com/smitz94/Projects/tree/master/N-Body%20Simulation)
 
 * Simulating Gravitational interaction of N-bodies.
