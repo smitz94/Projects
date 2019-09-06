@@ -6,7 +6,7 @@ Analyze and compare different Machine Learning Models for Credit-card Fraud dete
 
 _Language used_ : **Python**
 
-_Library used_ : **[pandas](https://pandas.pydata.org/)**,**[numpy](https://numpy.org/),**[sklearn](https://scikit-learn.org/)**,
+_Library used_ : **[pandas](https://pandas.pydata.org/)**,**[numpy](https://numpy.org/)**,**[sklearn](https://scikit-learn.org/)**,
 **[matplotlib](https://matplotlib.org/)** and **[imblearn](https://imbalanced-learn.readthedocs.io/en/stable/api.html)**
 
 _Models used_ : **[Linear Regression](https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e86)**, 
