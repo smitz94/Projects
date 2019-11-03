@@ -1,6 +1,10 @@
 # PROJECTS
 These are some of my Computational Physics projects and Individual projects in **_C++ , Python and Java_**.
 
+#### [DENOISING THE IMAGE USING AUTOENCODER(CNN) (DEEP LEARNING)](https://github.com/smitz94/Projects/tree/master/Denoising%20the%20image%20using%20Autoencoder(CNN))
+
+* Take an image that has noise- **noisy image** in it and train an autoencoder neural network to produce **clean image** removing the noise.
+
 #### [ANOMALY DETECTION USING LSTM(RNN)](https://github.com/smitz94/Projects/tree/master/Anomaly%20Detection%20using%20LSTM(RNN))
 
 * Detecting **_Collective Anomalies_** in the real time data of AWS EC2 using LSTM.
