@@ -1,6 +1,10 @@
 # PROJECTS
 These are some of my Computational Physics projects and Individual projects in **_C++ , Python and Java_**.
 
+#### [ESCAPE THE MAZE USING Q-LEARNING(REINFORCEMENT LEARNING)](https://github.com/smitz94/Projects/tree/master/Q_Learning_Maze(Reinforcement%20Learning))
+
+* Using Quality function and Reinforcement Learning, train a network to escape a given maze.
+
 #### [DENOISING THE IMAGE USING AUTOENCODER(CNN) (DEEP LEARNING)](https://github.com/smitz94/Projects/tree/master/Denoising%20the%20image%20using%20Autoencoder(CNN))
 
 * Take an image that has noise- **noisy image** in it and train an autoencoder neural network to produce **clean image** removing the noise.
