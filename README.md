@@ -1,7 +1,7 @@
 # PROJECTS
 These are some of my Computational Physics projects and Individual projects in **_C++ , Python and Java_**.
 
-#### [ESCAPE THE MAZE USING Q-LEARNING(REINFORCEMENT LEARNING)](https://github.com/smitz94/Projects/tree/master/Q_Learning_Maze(Reinforcement%20Learning))
+#### [FIND THE TREASURE AT AN ARBITRARY POINT IN A GIVEN MAZE USING Q-LEARNING(REINFORCEMENT LEARNING)](https://github.com/smitz94/Projects/tree/master/Q_Learning_Maze(Reinforcement%20Learning))
 
 * Using Quality function and Reinforcement Learning, train a network to escape a given maze.
 
