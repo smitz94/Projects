@@ -3,7 +3,7 @@ These are some of my Computational Physics projects and Individual projects in *
 
 #### [FIND THE TREASURE AT AN ARBITRARY POINT IN A GIVEN MAZE USING Q-LEARNING(REINFORCEMENT LEARNING)](https://github.com/smitz94/Projects/tree/master/Q_Learning_Maze(Reinforcement%20Learning))
 
-* Using Quality function and Reinforcement Learning, train a network to escape a given maze.
+* Using Quality function and Reinforcement Learning, train a network to find the treasure in a given maze.
 
 #### [DENOISING THE IMAGE USING AUTOENCODER(CNN) (DEEP LEARNING)](https://github.com/smitz94/Projects/tree/master/Denoising%20the%20image%20using%20Autoencoder(CNN))
 
